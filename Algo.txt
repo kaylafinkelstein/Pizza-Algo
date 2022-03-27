@@ -1,2 +1,6 @@
-Step 1. Order the Pizza
-Step 2: wait for the delivery
+Step 1. Figure out what kind of pizza you want
+Step 2. Order the pizza
+Step 3. Wait for pizza to be delivered 
+Step 4. Pay the delivery driver
+Step 5. Don't forget to tip the driver
+Step 6. Enjoy your pizza
